@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Selections"
+    android:background="@color/white"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:paddingBottom="70dp">
+
+
+    <ImageView
+        android:layout_width="375dp"
+        android:layout_height="406dp"
+        android:paddingBottom="30dp"
+        android:src="@drawable/donate" />
+
+    <TextView
+        android:layout_width="477dp"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/berkshire_swash"
+        android:text="'' Actions speak louder than words ''"
+        android:textAlignment="center"
+        android:textColor="@color/darkblue"
+        android:textSize="25sp" />
+
+    <TextView
+        android:layout_width="373dp"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/berkshire_swash"
+        android:text="Start Donating Today"
+        android:textAlignment="center"
+        android:textColor="@color/darkblue"
+        android:textSize="30sp" />
+
+
+    <Button
+        android:id="@+id/Donate"
+        android:layout_width="273dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="50dp"
+        android:backgroundTint="@color/darkblue"
+        android:text="Donate"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/get_help"
+        android:layout_width="373dp"
+        android:layout_height="30dp"
+        android:layout_marginTop="10dp"
+        android:text="@string/get_help"
+        android:textAlignment="center"
+        android:textColor="@color/darkblue"
+        android:textSize="18sp" />
+
+
+
+
+
+</LinearLayout>

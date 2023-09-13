@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "362488097380",
+    "project_id": "sabeelproject-e8d41",
+    "storage_bucket": "sabeelproject-e8d41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362488097380:android:7d1bdb9a207159edc8cd71",
+        "android_client_info": {
+          "package_name": "com.example.sabeelproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362488097380-o7njtp5cb276fb9hvnrgs667pu20547b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDerGo1WJ4P7IYCKkkYJPyzOKzug5yV2Oo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362488097380-o7njtp5cb276fb9hvnrgs667pu20547b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SabeelProject</string>
+    <string name="get_help"><u>Click here to get help</u></string>
+    <string-array name="donate_array">
+        <item>Food</item>
+        <item>Clothes</item>
+        <item>School Supplies</item>
+        <item>Medical Supplies</item>
+        <item>Electrical Supplies</item>
+        <item>Furniture</item>
+        <item>Blankets and Warmers</item>
+        <item>Other</item>
+    </string-array>
+</resources>
